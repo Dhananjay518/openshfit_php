@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World! FROM OCT BATCH WEBHOOOKKKKKKK testing webhook learning for KUCL batch";
- echo "hello from UNNATI 555555.........";
+ 
 ?>
 
 </body>
